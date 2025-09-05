@@ -3,10 +3,10 @@
 <h3 align="center">I am a part of the BR3IN team 😎 at UNIVPM check our website for last update at https://br3in.dii.univpm.it/</h3>
 
 <p align="center">
-  <img src="br3in.png" alt="br3in team logo" width="150"/>
+  <img src="br3in.png" alt="br3in team logo" width="150" style="background:white; padding:10px; border-radius:8px;"/>
 </p>
 <p align="center">
-  <img src="univpm.png" alt="univpm logo" width="150"/>
+  <img src="univpm.png" alt="univpm logo" width="150" style="background:white; padding:10px; border-radius:8px;"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bme-jafar&label=Profile%20views&color=0e75b6&style=flat" alt="bme-jafar" /> </p>
@@ -23,8 +23,8 @@
 -- **hundred_Prisoners**: This is a simple Java application that simulates the well-known 100 prisoners' problem.  
 -- **SegMed**: Coming soon 😉  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/mjmortada/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/>
   </a>
@@ -36,8 +36,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -51,10 +51,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bme-jafar&show_icons=true&locale=en&layout=compact" alt="bme-jafar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bme-jafar&show_icons=true&locale=en" alt="bme-jafar" /></p>
-
 <p align="center">
-  <img src="Jafar.png" alt="Jafar" width="150"/>
+  <img src="Jafar.png" alt="Jafar" width="300"/>
 </p>
