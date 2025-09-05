@@ -3,10 +3,10 @@
 <h3 align="center">I am a part of the BR3IN team 😎 at UNIVPM check our website for last update at https://br3in.dii.univpm.it/</h3>
 
 <p align="center">
-  <img src="br3in.png" alt="br3in team logo" width="150" style="background:white; padding:10px; border-radius:8px;"/>
-</p>
-<p align="center">
-  <img src="univpm.png" alt="univpm logo" width="150" style="background:white; padding:10px; border-radius:8px;"/>
+  <img src="br3in.png" alt="br3in team logo" width="150" 
+       style="background:white; padding:10px; border-radius:8px; display:inline-block; margin:0 10px;"/>
+  <img src="univpm.png" alt="univpm logo" width="150" 
+       style="background:white; padding:10px; border-radius:8px; display:inline-block; margin:0 10px;"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bme-jafar&label=Profile%20views&color=0e75b6&style=flat" alt="bme-jafar" /> </p>
