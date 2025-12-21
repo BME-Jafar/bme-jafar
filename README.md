@@ -22,6 +22,7 @@
 -- **Multi-Arduino Signal Transfer Hub**: This repository contains Arduino and Processing codes that enable multiple Arduino boards to collect, store, and transfer signals to a single laptop through USB for further processing and analysis.  <br>
 -- **hundred_Prisoners**: This is a simple Java application that simulates the well-known 100 prisoners' problem.<br>
 -- **QR generator**:  user-friendly web application for generating high-quality QR codes with optional custom logos.<br>
+-- **Zoom Cursor Tool**:  An interactive magnification tool for MATLAB figures.<br>
 -- **SegMed**: Coming soon 😉  
 
 <h3 align="center">Connect with me:</h3>
